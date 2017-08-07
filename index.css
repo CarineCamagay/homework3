@@ -1,0 +1,42 @@
+ h1 {
+     font-family: "Courier", monospace;
+     font-size: 40px;
+     color: indigo;
+     font-style: oblique;
+     text-align:center;
+     background-color:lavenderblush;
+ }
+ 
+ body{
+    background-color: #ffffff;
+}
+p1 { 
+    background-color: yellow;
+    font-size: 20px;
+    color:  teal;  
+    font-style: normal;
+    font-family: "verdana", sans-serif;
+     }
+
+.ewan {
+    color: black;
+    font-size: 25px;
+    font-family: "lucida console", monospace;
+    font-style: oblique;
+    background-color: green;
+}
+
+#para3 {
+    background-color: #b0c4de;
+    font-size: 30px;
+    color: darkolivegreen;
+    font-family: "arial", Arial, Helvetica, sans-serif;
+}
+
+#firstname {
+    font-size: 28px;
+}
+#lastname{
+    font-size: 28px;
+}
+
